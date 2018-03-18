@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "prettier.singleQuote": true,
+  "workbench.colorTheme": "Material Theme",
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "git.ignoreLimitWarning": true
+}
